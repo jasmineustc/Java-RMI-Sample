@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhangmi/Documents/andriodstudio/AndroidInterestingPictureLab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Interesting Picture</string>
+    <string name="hello">Type a keyword to search for an interesting picture.</string>
+</resources>
